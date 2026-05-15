@@ -22,7 +22,7 @@ export default function LetterPage({ setCurrentPage }) {
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
           Abhi to ye sb jgha tumhe ghumana,<br />
-          i mean ghurana baki tha...🌙
+          i mean 'ghurana' baki tha...🌙
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
