@@ -21,8 +21,8 @@ export default function LetterPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
-          Main sarminda hu...🙉<br />
-          Ek glti hmari dosti mitta to nhi skti na...🌙
+          Abhi to ye sb jgha tumhe...🙉<br />
+          ghurana, i mean ghumana baki tha...🌙
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
